@@ -25,8 +25,8 @@
 
 ## 💼 Currently Working With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Java
 - Git & GitHub
 - Responsive Web Design
