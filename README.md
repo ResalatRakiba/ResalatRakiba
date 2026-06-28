@@ -36,8 +36,6 @@
 ## 🌱 Currently Learning
 
 - JavaScript
-- Advanced Java
-- UI/UX Design with Figma
 - Modern Front-End Development
 - Data Structures & Algorithms
 
